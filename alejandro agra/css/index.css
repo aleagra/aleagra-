@@ -1,0 +1,193 @@
+.navbar {
+    background-color: var(--white-color);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.05);
+    min-height: 100px;
+}
+
+.nav-link { color: var(--dark-color); }
+.nav-link:hover { color: var(--dark-color); }
+
+.navbar-toggler { font-size: 40px; }
+.navbar-toggler:focus { outline: none; }
+
+
+
+*{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container{
+  
+text-align: center;
+}
+.horacion{
+
+ width: 80%;
+    margin-left: 110px;
+font-size: 20px;
+   
+}
+.titulos{
+    margin-left: 110px;
+
+}
+.dwin{
+    margin-left: 550px;
+}
+
+.laf{
+float: left;
+    margin-left: 50px;
+}
+
+.titulosh{ 
+    margin-right: 39%;
+   text-align: center;
+}
+.parrafo{
+    font-size: 20px;
+   width: 40%;
+    float: left;
+    margin-left: 15%;
+    
+    
+}
+.parrafo1{
+    font-size: 20px;
+    width: 40%;
+    margin-left: 15%;
+    float: left;
+    margin-top:7%;
+    
+}
+.parrafo2{
+    font-size: 20px;
+    width: 40%;
+    margin-left: 15%;
+    float: left;
+    margin-top:3%;
+    
+}
+.fotosw{
+    width: 31%;
+    float: right;
+    margin-right: 100px;
+    
+}
+.fotosw1{
+    width: 31%;
+    float: right;
+    margin-right: 100px;
+ margin-top: 80px;
+}
+.fotosw2{
+    width: 35%;
+    float: right;
+    margin-right: 100px;
+ margin-top: 70px;
+}
+.fotosw3{
+    width: 31%;
+    float: right;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.foter {
+
+  background-color: white;
+
+    width: 100%;
+
+ padding: 0.5%;
+     padding-top: 1%;
+    
+    
+    float: left;
+
+   align-items: center;
+    text-align: center;
+}
+
+.foter a {
+    text-decoration:none;
+color: #616161;
+
+}
+.letras{
+width: 16.6%;
+float:left;
+text-align: center;
+font-size: 15px;
+ font-family:'Roboto Condensed', sans-serif;
+
+    
+    
+}   
+.letras:hover {
+    text-decoration:underline;
+    
+    }  
+.modal-title{
+   margin-left: 155px;
+}
+.holaa {
+    background-color: white;
+    width: 22%;
+    height: auto;
+    border: 1px transparent;
+    float: left;
+   align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 26px;
+    padding-bottom: 10px;
+ 
+
+}
+.holaa:hover
+	{
+	 box-shadow: inset 0 0 0 1px #000;
+	filter: opacity(.7);
+      
+
+	}
+
+      
+.today-special__img1 {
+    width:248px;
+    
+    
+}
+
+.today-special__price {
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    
+      
+}
+
+.today-special__title{
+      font-family:  SamsungSharpSans,arial;
+    font-size: 18px;
+    color: #2f353d;
+    margin-top: 3%;
+}
+.today-special__titu {
+    font-size: 10px;
+    font-family: roboto,cursive;
+    padding-bottom: 5px;
+    color: #636363;
+}
+
+
+
+.titulos {
+text-align: left;
+    font-size: 25px;
+ font-family:  SamsungSharpSans;
+
+
+
+}
+
